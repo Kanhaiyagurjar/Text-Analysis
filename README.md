@@ -1,4 +1,4 @@
-                                                                                                                Text Analysis ( Web Scraping ) 
+Text Analysis ( Web Scraping ) 
 
 I first saved the URL and URL ID in Excel format and then imported them using pandas.
 
